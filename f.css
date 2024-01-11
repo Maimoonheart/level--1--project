@@ -1,0 +1,131 @@
+.background{
+background-color:  rgb(240,242,245);
+height: 120vh;
+}
+
+h1{
+    color: blue;
+    margin-left: 40%;
+    font-size: 50px;
+}
+
+fieldset{
+    background-color:#ffffff;
+     width: 25%;
+     height: 90vh;
+     margin-left: 33%;
+     border: none;
+     border-radius: 9px;
+     margin-top: -20px;
+}
+
+h2{
+    margin-left: 20%;
+}
+
+
+p{
+    margin-left: 30%;
+    margin-top: -12px;
+    color: #606770
+
+}
+
+hr{
+    width: 315px;
+}
+
+input{
+padding: 4px;
+margin-left: 5%;
+
+}
+#number{
+    width: 259px; 
+    margin-top: 7px;
+}
+
+h5{
+    margin-left: 5%;
+    margin-top: 7px;
+    font-weight: normal;
+    font-size: small;
+    color: #606770
+}
+
+#myicon{
+    margin-left: 8%;
+    margin-top: -23px;
+    position: absolute;
+}
+
+select{ 
+    width:80px ;
+    margin-left: 1.8%;
+    padding: 4px;
+    margin-top: -12px;
+    position: absolute;
+    display: flex;
+
+}
+
+#month{
+width: 80px;
+padding: 4px;
+margin-left: 13%;
+margin-top: -1.5%;
+direction: ltr;
+}
+
+#year{
+    width: 80px;
+    padding: 4px;
+    position: relative;
+    margin-left: 67%;
+    margin-top: -4%;
+    direction: ltr;
+}
+
+#icon{
+    margin-left: 5.5%;
+    margin-top: -23px;
+    position: absolute;
+}
+
+button{
+    width: 80px;
+    margin-left: 5%;
+    padding: 2px;
+    margin-top: -12px;
+}
+ 
+.text{
+    font-size: xx-small;
+    color:#606770;
+    margin-left: 16px;
+    margin-top: 4px;
+}
+
+.Sign{
+    font-size: xx-small;
+    color:#606770;
+    margin-left: 16px;
+    margin-top: 4px;
+}
+ 
+.up{
+    color: white;
+    background-color: rgb(0,164,0);
+    width: 39%;
+    border: none;
+    font-size: large;
+    border-radius: 4px;
+    padding: 3px;
+    margin-top: 5px;
+    margin-left: 95px;
+}
+
+.an{
+    color: rgb(24,119,242);
+    margin-top: 10px;
+}
